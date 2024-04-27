@@ -15,5 +15,5 @@ incodd:
 decodd:
 	$(CC) $(CFLAGS) decodd.c -o decodd
 
-all: lights1 lights2 incodd decodd
+all: lights1 light2 incodd decodd
 
